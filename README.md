@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faaysaaal
 - 👀 I’m interested in Games and Apps
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python projects and evolve to learn python, ML, DataS.Eager to get in to the python community.
 - 📫 How to reach me contact on +92 3086728781
 
 <!---
